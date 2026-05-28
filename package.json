@@ -1,0 +1,23 @@
+{
+  "name": "agrotrack",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.4",
+    "chart.js": "^4.4.1",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.2.11"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
